@@ -1,0 +1,3 @@
+3.ustalanie ruchu
+4.win condition
+5.czyszczenie danych
